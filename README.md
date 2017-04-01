@@ -14,6 +14,5 @@ steps:
     failure: true
     plugin:
       name: php_test
-      inputs:
-        - FLOW_ENABLE_FAILURE=$FLOW_ENABLE_FAILURE
+
 ```
