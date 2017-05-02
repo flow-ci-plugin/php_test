@@ -2,7 +2,7 @@
 name: php_test
 version: 0.0.1
 language: php
-description:"
+description: "
   本插件主要是测试，执行的命令是`phpunit`，此插件会把测试的详细信息会以日志的形式输出出来
 - 注意事项
   假如使用的测试命令与本插件不符，可以删除此插件添加自定义插件写上相应的测试命令"
